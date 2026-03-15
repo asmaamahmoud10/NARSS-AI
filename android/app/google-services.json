@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581311119017",
+    "project_id": "ai-narss-app",
+    "storage_bucket": "ai-narss-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581311119017:android:d3f8cf460481dbef00b3b8",
+        "android_client_info": {
+          "package_name": "com.example.ai_social_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCcDoY8A4ssDIvDD6_2PPaOxAdZGYICB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
