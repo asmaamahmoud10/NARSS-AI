@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
       backgroundColor: const Color.fromARGB(255, 217, 233, 221),
 
       appBar: AppBar(
-        backgroundColor: const Color.fromARGB(255, 217, 233, 221),
+        backgroundColor: const Color.fromARGB(255, 198, 218, 203),
         title: Row(
           children: [
             Image.asset("assets/images/logo.jpeg", height: 35),
