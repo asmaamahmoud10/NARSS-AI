@@ -9,7 +9,7 @@ class CommentsView extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text("All Comments"),
-        backgroundColor: const Color(0xFF2E7D32),
+        backgroundColor: const Color.fromARGB(255, 217, 233, 221),
       ),
 
       body: StreamBuilder<QuerySnapshot>(
